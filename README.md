@@ -24,6 +24,7 @@ Memory/
 ├── mainwindow.h
 ├── mainwindow.ui
 ├── Recursos.qrc
+├── documentacion.pdf
 ├── sonido.qrc
 └── sonidos.qrc
 ```
