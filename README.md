@@ -82,4 +82,3 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 Give a ⭐️ if you like this project!
-```
