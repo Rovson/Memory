@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>sonidos/close.wav</file>
+        <file>sonidos/done.wav</file>
+        <file>sonidos/error.wav</file>
+        <file>sonidos/open.wav</file>
+        <file>sonidos/win.wav</file>
+    </qresource>
+</RCC>

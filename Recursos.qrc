@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Iconos/about.png</file>
+        <file>Iconos/exit.png</file>
+        <file>Iconos/icon.png</file>
+        <file>Iconos/reset.png</file>
+        <file>Iconos/topsecret.png</file>
+        <file>Iconos/ufo00.png</file>
+        <file>Iconos/ufo00c.png</file>
+        <file>Iconos/ufo01.png</file>
+        <file>Iconos/ufo01c.png</file>
+        <file>Iconos/ufo02.png</file>
+        <file>Iconos/ufo02c.png</file>
+        <file>Iconos/ufo03.png</file>
+        <file>Iconos/ufo03c.png</file>
+        <file>Iconos/ufo04.png</file>
+        <file>Iconos/ufo04c.png</file>
+        <file>Iconos/ufo05.png</file>
+        <file>Iconos/ufo05c.png</file>
+        <file>Iconos/ufo06.png</file>
+        <file>Iconos/ufo06c.png</file>
+        <file>Iconos/ufo07.png</file>
+        <file>Iconos/ufo07c.png</file>
+        <file>Iconos/ufo08.png</file>
+        <file>Iconos/ufo08c.png</file>
+        <file>Iconos/ufo09.png</file>
+        <file>Iconos/ufo09c.png</file>
+        <file>Iconos/ufo10.png</file>
+        <file>Iconos/ufo10c.png</file>
+        <file>Iconos/ufo11.png</file>
+        <file>Iconos/ufo11c.png</file>
+        <file>Iconos/ufo12.png</file>
+        <file>Iconos/ufo12c.png</file>
+        <file>Iconos/ufo13.png</file>
+        <file>Iconos/ufo13c.png</file>
+        <file>Iconos/ufo14.png</file>
+        <file>Iconos/ufo14c.png</file>
+    </qresource>
+</RCC>
